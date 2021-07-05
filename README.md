@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![JaeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh468&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh468)](https://github.com/ljh468/github-readme-stats)
+<br>
+<a href="https://github.com/ljh468?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kkyu8925&theme=buefy&layout=compact" />
+</a>
