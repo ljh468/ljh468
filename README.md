@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tistory.com/)](https://tistory.com/)
-<a href="https://www.notion.so/a136c926a8294681b9e1675bcf591345">
+<a href="https://www.notion.so/Lee-Jae-Hoon-019070e382cc415e9ed95b272122523b">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://www.notion.so/Lee-Jae-Hoon-019070e382cc415e9ed95b272122523b"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
