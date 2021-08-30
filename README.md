@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ljh468&theme=buefy&layout=compact" />
 </a>
 
-[![Tech Blog Badge](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdJe97I%2Fbtrdj6upyc2%2FmXQu8T0n2QsodRJiw2CQ21%2Fimg.png)](https://jh2021.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tistory.com/)](https://jh2021.tistory.com/)
 <a href="https://www.notion.so/Lee-Jae-Hoon-019070e382cc415e9ed95b272122523b">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://www.notion.so/Lee-Jae-Hoon-019070e382cc415e9ed95b272122523b"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
