@@ -6,4 +6,4 @@
 <br>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white&link=https://tistory.com/)](https://jh2021.tistory.com/)
-[![Resume Badge](http://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white&link=https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)](https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)
+[![Resume Badge](http://img.shields.io/badge/-Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white&link=https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)](https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)
