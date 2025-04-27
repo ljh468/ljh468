@@ -4,7 +4,7 @@
 
 #### 📚 Tech Blog
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white&link=https://tistory.com/)](https://jh2021.tistory.com/)
+![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://jh2021.tistory.com/)
 
 #### 🔗 Portfolio & Resume (coming soon!)
 
