@@ -29,6 +29,6 @@
 
 #### 📫 Let's Connect!
 - **Tech Blog**: [My Tech Blog](https://jh2021.tistory.com/)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/jaehoon-4a529121b)
+- **LinkedIn**: [My LinkedIn](www.linkedin.com/in/jaehoon-4a529121b)
 
 ---
