@@ -1,7 +1,34 @@
-### Hi there 👋
+### 👋 Hi there, welcome to my GitHub!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh468&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Count](https://profile-counter.glitch.me/ljh468/count.svg)
+
+#### 📚 Tech Blog
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white&link=https://tistory.com/)](https://jh2021.tistory.com/)
 
-<!-- [![Resume Badge](http://img.shields.io/badge/-Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white&link=https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)](https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/) -->
+#### 🔗 Portfolio & Resume (coming soon!)
+
+<!-- [![Resume Badge](http://img.shields.io/badge/-Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white&link=https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)](https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink//) -->
+
+---
+
+#### 👨‍💻 About Me
+- Backend Developer with experience in **Java**, **Spring**, **Apache Ignite**, and **GRPC**.
+- Passionate about **Microservices** and **Scalability** in game development.
+- Currently focusing on **real-time systems** and **cloud-native architecture**.
+
+---
+
+#### 🔧 Technologies & Tools
+- **Languages**: Java, Python
+- **Frameworks**: Spring Boot, Apache Ignite, GRPC
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Docker, Kubernetes, Git
+
+---
+
+#### 📫 Let's Connect!
+- **Tech Blog**: [My Tech Blog](https://jh2021.tistory.com/)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/jaehoon-4a529121b)
+
+---
