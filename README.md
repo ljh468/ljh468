@@ -1,6 +1,5 @@
 ### 👋 Hi there, welcome to my GitHub!
 
-![Visitor Count](https://profile-counter.glitch.me/ljh468/count.svg)
 
 #### 📚 Tech Blog
 
