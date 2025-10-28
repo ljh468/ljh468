@@ -7,7 +7,7 @@
 
 #### 🔗 Portfolio & Resume (coming soon!)
 
-[![Resume Badge](http://img.shields.io/badge/-Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white&link=https://www.canva.com/design/DAFpX33JE_M/d3Php6jrthv5uABDeNKOzg/view?utm_content=DAFpX33JE_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)](https://jeahoon.my.canva.site/dagictyc4k4/)
+[![Resume Badge]()
 
 ---
 
